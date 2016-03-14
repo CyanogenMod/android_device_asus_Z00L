@@ -1,4 +1,4 @@
-Unified Device Tree for Asus Zenfone 2 Laser (720p)
+Cool Unified Device Tree for Asus Zenfone 2 Laser (720p)
 ===========================================
 
 Basic   | Spec Sheet
